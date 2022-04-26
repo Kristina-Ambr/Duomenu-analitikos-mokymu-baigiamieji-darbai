@@ -1,3 +1,0 @@
-Tableau baigiamasis darbas naudojant 'The Movies Dataset' duomenis iš Kaggle duomenų tinklapio:
-
-https://dub01.online.tableau.com/#/site/mazrikasatmedaicu/workbooks/833157?:origin=card_share_link
