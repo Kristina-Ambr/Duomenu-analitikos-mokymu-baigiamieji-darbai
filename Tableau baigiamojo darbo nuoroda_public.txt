@@ -1,0 +1,3 @@
+Tableau baigiamasis darbas naudojant 'The Movies Dataset' duomenis iš Kaggle duomenų tinklapio:
+
+https://public.tableau.com/views/Movies_1976-2016_ataskaita/Metintervalai_parametras?:language=en-GB&:display_count=n&:origin=viz_share_link
